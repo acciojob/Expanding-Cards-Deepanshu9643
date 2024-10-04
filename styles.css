@@ -2,7 +2,7 @@
 *{
 	height:10vh;
 	margin-top:50px;
-
+}
 
 .container{
 	display:flex;
@@ -14,9 +14,11 @@
 	height: 40vh;
 	object-fit:cover;
 	margin:10px;
-	border-radius:10px;
+	border-radius:20px;
 	cursor:pointer;
 }
+
+
 
 .active img{
 	width:40vh;
