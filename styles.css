@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+*{
+	height:10vh;
+	margin-top:50px;
+
+
+.container{
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+.panel img{
+	width:10vh;
+	height: 40vh;
+	object-fit:cover;
+	margin:10px;
+	border-radius:10px;
+	cursor:pointer;
+}
+
+.active img{
+	width:40vh;
+}
+
+
