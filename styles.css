@@ -23,4 +23,12 @@
 	width:50vh;
 }
 
+.img-text{
+	opacity:0;
+}
+
+.active .img-text {
+  opacity: 1;
+}
+
 
